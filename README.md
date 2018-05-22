@@ -1,11 +1,10 @@
 # Provenance Annotation and Analysis to Support Process Re-Computation
-## Supplemental material
 
-This is a public repository to provide the supplemental material for IPAW 2018 paper: "Provenance Annotation and Analysis to Support Process Re-Computation"
+This is a public repository to provide the supplemental material for IPAW 2018 paper: _"Provenance Annotation and Analysis to Support Process Re-Computation"_
 
 If you use any material of this repository, we would appreciate citations to:
 
-Cała J., Missier P. (2016) Provenance Annotation and Analysis to Support Process Re-Computation. In: XXX (eds) Provenance and Annotation of Data and Processes. IPAW 2018. Lecture Notes in Computer Science, vol. NNNN. Springer.
+> Cała J., Missier P. (2018) Provenance Annotation and Analysis to Support Process Re-Computation. In: XXX (eds) _Provenance and Annotation of Data and Processes. IPAW 2018_. Lecture Notes in Computer Science, vol. NNNN. Springer.
 
 Bibtex entry (to be updated):
 
@@ -17,11 +16,11 @@ Bibtex entry (to be updated):
       pages={}
     }
 
-### Introduction
+## Introduction
 
 ...
 
-### Running Tests
+## Running Tests
 
-To run the tests you need SWI-Prolog (tested on version 7.6.4) from: http://www.swi-prolog.org
+To run the tests you need SWI-Prolog (tested on version 7.6.4) from: http://www.swi-prolog.org.
 Then, load at least one of the test files provided (see the header in test/test_front_*) and run tests.
