@@ -18,7 +18,11 @@ Bibtex entry (to be updated):
 
 ## Introduction
 
-The repository includes the Prolog code to generate re-computation front for the given set of documents (entities) as presented in the paper. At the moment it includes two set of tests to show it in action. Enjoy!
+The repository includes the Prolog code to generate the re-computation front for the given set of documents/entities, as presented in the paper. The set of documents {may/may not} represent the change front but, importantly, it refers to the new versions of the documents.
+
+At the moment the repository includes two sets of simple tests to show the code in action. Enjoy!
+
+If anything is unclear or you spot a bug, please submit an issue.
 
 ## Running Tests
 
