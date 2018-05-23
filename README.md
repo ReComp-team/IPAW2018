@@ -18,7 +18,7 @@ Bibtex entry (to be updated):
 
 ## Introduction
 
-...
+The repository includes the Prolog code to generate re-computation front for the given set of documents (entities) as presented in the paper. At the moment it includes two set of tests to show it in action. Enjoy!
 
 ## Running Tests
 
