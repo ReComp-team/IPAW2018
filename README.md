@@ -4,16 +4,19 @@ This is a public repository to provide the supplemental material for IPAW 2018 p
 
 If you use any material of this repository, we would appreciate citations to:
 
-> Cała J., Missier P. (2018) Provenance Annotation and Analysis to Support Process Re-Computation. In: XXX (eds) _Provenance and Annotation of Data and Processes. IPAW 2018_. Lecture Notes in Computer Science, vol. NNNN. Springer.
+> Cała J., Missier P. (2018) Provenance Annotation and Analysis to Support Process Re-computation. In: Belhajjame K., Gehani A., Alper P. (eds) _Provenance and Annotation of Data and Processes. IPAW 2018_. Lecture Notes in Computer Science, vol 11017. Springer, Cham.
 
 Bibtex entry (to be updated):
 
     @inproceedings{ipaw2018_recomp,
       author={Jacek Ca\l{}a and Paolo Missier},
       title={Provenance Annotation and Analysis to Support Process Re-Computation},
-      booktitle={},
+      booktitle={Provenance and Annotation of Data and Processes},
+      editor={Belhajjame, Khalid and Gehani, Ashish and Alper, Pinar},
+      publisher={Springer International Publishing},
       year={2018},
-      pages={}
+      pages={3--15},
+      doi={10.1007/978-3-319-98379-0_1}
     }
 
 ## Introduction
